@@ -1,0 +1,18 @@
+Shortest Delivery Route Optimization Result
+
+Selected Optimization Model: Shortest Path Problem
+Algorithm: Dijkstra Algorithm implemented in NetworkX
+
+Source Node: Warehouse
+Target Node: CustomerZone
+
+Shortest Path:
+Warehouse -> DistributionCenter_B -> Hub_D -> CustomerZone
+
+Total Distance: 27.00 km
+Estimated Delivery Time: 40.00 minutes
+
+Managerial Interpretation:
+The result identifies the shortest delivery route from the warehouse to the customer zone.
+This helps an e-commerce company reduce delivery distance, improve logistics planning,
+and support faster order fulfillment.

@@ -1,0 +1,14 @@
+source,target,distance_km,delivery_time_min
+Warehouse,DistributionCenter_A,12,18
+Warehouse,DistributionCenter_B,10,15
+Warehouse,DistributionCenter_C,18,27
+DistributionCenter_A,Hub_D,11,16
+DistributionCenter_A,Hub_E,15,22
+DistributionCenter_B,Hub_D,8,12
+DistributionCenter_B,Hub_F,14,20
+DistributionCenter_C,Hub_E,7,11
+DistributionCenter_C,Hub_F,9,14
+Hub_D,CustomerZone,9,13
+Hub_E,CustomerZone,6,10
+Hub_F,CustomerZone,8,12
+Hub_D,Hub_E,5,8
